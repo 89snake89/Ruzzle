@@ -1,4 +1,4 @@
 Ruzzle
 ======
 
-Ruzzle Game in C
+Ruzzle Game in C By Alex e Fabio
